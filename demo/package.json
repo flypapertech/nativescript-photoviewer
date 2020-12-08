@@ -5,8 +5,10 @@
 		"@nativescript/webpack": "3.0.0"
 	},
 	"devDependencies": {
-		"typescript": "3.9.7",
-		"@nativescript/types": "7.0.0"
+		"@nativescript/android": "7.0.1",
+		"@nativescript/ios": "7.0.6",
+		"@nativescript/types": "7.0.0",
+		"typescript": "3.9.7"
 	},
 	"scripts": {
 		"build.plugin": "cd ../src && npm run build"
